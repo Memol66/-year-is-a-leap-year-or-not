@@ -1,4 +1,4 @@
-# 140000000000000
+# 0000000
 # Get the year from the user.
 year = int(input("Please enter the year: "))
 
